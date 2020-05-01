@@ -15,6 +15,8 @@ import { xcrypt } from './dist/xcrypt.mjs';
 
 ```
 
+or
+
 ```html
 
 <script src="./dist/xcrypt.min.js"></script>
